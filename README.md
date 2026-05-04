@@ -26,8 +26,6 @@ Hardware requirements:
 
 A laptop or desktop computer
 
-No GPU or special hardware is required
-
 I tested the project on my Apple MacBook.
 
 ## Data Sources
