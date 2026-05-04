@@ -14,17 +14,21 @@ This made Backgammon a good project because it has a clear state space, legal ac
 
 ## Software and Hardware Requirements
 
-The project uses Python 3.
+Software requirements:
 
-The project runs in a terminal or command prompt.
+Python 3
 
-No external Python packages are required.
+No external Python packages are required
 
-The requirements.txt file is included to show that the project only uses the Python 3 standard library.
+The requirements.txt file is included to show that the project only uses the Python 3 standard library
 
-I tested the project on my Apple MacBook Pro M3.
+Hardware requirements:
 
-No GPU or special hardware is required.
+A laptop or desktop computer
+
+No GPU or special hardware is required
+
+I tested the project on my Apple MacBook.
 
 ## Data Sources
 
