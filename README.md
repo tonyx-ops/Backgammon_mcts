@@ -32,7 +32,10 @@ I tested the project on my Apple MacBook.
 
 No external dataset was used.
 
-The program uses standard Backgammon rules. Dice rolls are generated randomly by Python. I used the U.S. Backgammon Federation rules page as the main rules reference.
+The program uses standard Backgammon rules. Dice rolls are generated randomly by Python. 
+
+I used the U.S. Backgammon Federation rules page as the main rules reference.
+https://usbgf.org/learn-backgammon/rules-of-backgammon/
 
 ## How to Reproduce the Project
 
